@@ -1,0 +1,167 @@
+[33mcommit 120faed70143820bbcf9b9fa0a6120f500ef43f9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Thu Feb 9 13:37:12 2023 -0800
+
+    0-iam_betty
+
+[33mcommit 7361c6f55d0ea74a6fc19baef2d965680e3abf30[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 15:27:17 2023 -0800
+
+    school.mgc
+
+[33mcommit c2d16bfd2624546e738fb6cd9ff971a936bcc0b9[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 15:22:39 2023 -0800
+
+    103-commas
+
+[33mcommit 05f7d8d4aedb8d71917bfee42a151bf084ae4896[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 15:17:09 2023 -0800
+
+    102-tree
+
+[33mcommit 4f984aa6d873d3b05bbeb5a7fa132cd6df44c73d[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 15:10:56 2023 -0800
+
+    101-clean_emacs
+
+[33mcommit f857a3ecc1897f35a37eb56d28b730a2eda95631[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 15:05:57 2023 -0800
+
+    100-lets_move
+
+[33mcommit 5c5a4bb69d52c5cf04e6bbb055a4568dc7d2d4f5[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 15:01:04 2023 -0800
+
+    14-copy_html
+
+[33mcommit 1b0da7a7c6d763b9af64da711f915efebeca7cd2[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:56:33 2023 -0800
+
+    13-symbolic_link
+
+[33mcommit f4e096119b995af78fa6f94ecbdd153e6c5b14f3[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:47:03 2023 -0800
+
+    12-file_type
+
+[33mcommit a8b1e3336a419986ead48f67c712f472e8456c1d[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:43:16 2023 -0800
+
+    11-lists
+
+[33mcommit bb7ce15971b8952adbdf152360f7da8eddd1f761[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:40:09 2023 -0800
+
+    10-back
+
+[33mcommit e66913bc01cf6fce36b4af9efc9d8382b6e60454[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:38:04 2023 -0800
+
+    9-firstdirdeletion
+
+[33mcommit 6936f4fc62afe5b844715dfd6793e14a84aa75d4[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:35:03 2023 -0800
+
+    8-firstdelete
+
+[33mcommit c488f8dca6790cd5790028f306c71cf59bf7c77a[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:33:01 2023 -0800
+
+    8-firstdelete
+
+[33mcommit 6b38aa147916a7d8914ef40b02a75dfc4e8015a0[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:30:50 2023 -0800
+
+    7-movethatfile
+
+[33mcommit 3b16700cfe71f934e535fa44fa282849623f44b2[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:28:06 2023 -0800
+
+    6-firstdirectory
+
+[33mcommit 5b9b5a64656e4d90d8c8295bd31263160e277675[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:24:40 2023 -0800
+
+    5-listfilesdigitonly
+
+[33mcommit d742858a23edf8f669ed9f03e2fd7575ffe551c8[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:21:51 2023 -0800
+
+    4-listmorefiles
+
+[33mcommit 8f9bc95127acd7c4ef1fa7dedd859eb18db6847a[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:18:39 2023 -0800
+
+    3-listfiles
+
+[33mcommit 1dff22427a3c60ecc670f858174fdc130e154d5f[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:16:38 2023 -0800
+
+    2-bring_me_home
+
+[33mcommit 4b575654d7b5b7a0c777826b7bd8a59d9d2435bd[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:14:54 2023 -0800
+
+    2-bring_me_home
+
+[33mcommit a7a98fc9d8cf2ec27ca83913f44135723a78d853[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:12:03 2023 -0800
+
+    1-listit
+
+[33mcommit cf43e4868618825d90d724b773ff4d5d3ea7f8c7[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 14:03:59 2023 -0800
+
+    0-current_working_directory
+
+[33mcommit 74735ded6772f2a609309e3fd5669f943bc5dbe4[m
+Author: Dannitygraphix <122821800+Dannitygraphix@users.noreply.github.com>
+Date:   Wed Feb 8 21:49:22 2023 +0000
+
+    Delete 0-
+
+[33mcommit 85e8a57be913a3d977b10575256869ad0e065c34[m
+Author: Dannitygraphix <122821800+Dannitygraphix@users.noreply.github.com>
+Date:   Wed Feb 8 21:49:10 2023 +0000
+
+    Delete alx-system_engineering-devops
+
+[33mcommit 8bb22225af87f82b97157b13f05e719e6e170dca[m
+Author: Dannitygraphix <122821800+Dannitygraphix@users.noreply.github.com>
+Date:   Wed Feb 8 21:48:59 2023 +0000
+
+    Delete current_working_directory
+
+[33mcommit 2b59d001f88725740f867131a83ae80668edca07[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 08:20:18 2023 -0800
+
+    answer to first question
+
+[33mcommit 602ba46b5e4d930b2d37856bd49000998b84fdc9[m
+Author: Dannitygraphix <dellwingz@gmail.com>
+Date:   Wed Feb 8 08:14:41 2023 -0800
+
+    answers to my question on shell
